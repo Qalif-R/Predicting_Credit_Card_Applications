@@ -14,4 +14,4 @@ The data used to train and test our classifiers is the Credit Card Approval data
  9. Testing the chosen model on unseen data
  
  
-**For those who are not familiar with Jupyter Notebooks**, please review the analysis by clicking on the ipynb file and inspecting the preview.
+**For those who are not familiar with Jupyter Notebooks**, please review the analysis by clicking on the **ipynb** file and inspect the preview whih appears.
