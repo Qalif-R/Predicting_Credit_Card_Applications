@@ -3,15 +3,15 @@ Commercial banks have the task of deciding whether or not credit card applicatio
 
 The data used to train and test our classifiers is the Credit Card Approval dataset from the **UCI Machine Learning Repository**. Below are the sub tasks performed in order to successfully build and assess the supervised learning model:
 
- **1. Exploratory Analysis**\
- **2. Feature selection**\
- **3. Split the data into train and test sets**\
- **4. Preprocessing the data**\
- **5. Train a few classic models**\
- **6. Cross Fold Validation**\
- **7. Hyper Parameter Tuning to improve model performance**\
- **8. Impementing Ensemble methods to improve model performance**\
- **9. Testing the chosen model on unseen data**\
+ 1. Exploratory Analysis
+ 2. Feature selection
+ 3. Split the data into train and test sets
+ 4. Preprocessing the data
+ 5. Train a few classic models
+ 6. Cross Fold Validation
+ 7. Hyper Parameter Tuning to improve model performance
+ 8. Impementing Ensemble methods to improve model performance
+ 9. Testing the chosen model on unseen data
  
  
-For those who are not familiar with Jupyter Notebooks, please review the analysis by clicking on the ipynb file and inspecting the preview.
+**For those who are not familiar with Jupyter Notebooks**, please review the analysis by clicking on the ipynb file and inspecting the preview.
