@@ -12,6 +12,7 @@ The data used to train and test our classifiers is the Credit Card Approval data
  7. Hyper Parameter Tuning to improve model performance
  8. Impementing Ensemble methods to improve model performance
  9. Testing the chosen model on unseen data
- 
+
+ first commit
  
 **For those who are not familiar with Jupyter Notebooks**, please review the analysis by clicking on the **ipynb** file and inspecting the preview which appears.
